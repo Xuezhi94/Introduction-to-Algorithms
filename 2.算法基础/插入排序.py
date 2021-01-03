@@ -11,6 +11,7 @@ def insertion_sort(l):
 l = [5,2,4,6,1,3]
 insertion_sort(l)
 print(l)
+print(1)
  
 
 
